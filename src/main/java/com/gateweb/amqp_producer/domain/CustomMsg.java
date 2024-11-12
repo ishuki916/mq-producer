@@ -18,6 +18,6 @@ public class CustomMsg {
 
     BigDecimal amount;
 
-//    LocalDateTime timestamp;
+    LocalDateTime timestamp;
 
 }
